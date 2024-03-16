@@ -20,3 +20,8 @@ For more information, see the [Next.js Docs](https://nextjs.org/) on the Next.js
 - Accessibility tips
 - Auth with NextAuth.js
 - Metadata Addons
+
+#### LOGIN Creds : 
+- Email : user@nextmail.com
+- Password: 123456
+
